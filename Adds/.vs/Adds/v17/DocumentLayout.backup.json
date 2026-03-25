@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\Adds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85298CC7-E4AB-92FF-209E-6BA14793AD72}|Assembly-CSharp-Editor.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\desktop\\adds\\assets\\editor\\adsserviceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85298CC7-E4AB-92FF-209E-6BA14793AD72}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\adsserviceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC19C8-4BB9-989A-4C18-0AC2B705537B}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\desktop\\adds\\assets\\services\\adsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC19C8-4BB9-989A-4C18-0AC2B705537B}|Assembly-CSharp.csproj|solutionrelative:assets\\services\\adsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdsService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\Adds\\Assets\\Services\\AdsService.cs",
+              "RelativeDocumentMoniker": "Assets\\Services\\AdsService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\Adds\\Assets\\Services\\AdsService.cs",
+              "RelativeToolTip": "Assets\\Services\\AdsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:42:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsServiceEditor.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\Adds\\Assets\\Editor\\AdsServiceEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\AdsServiceEditor.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\Adds\\Assets\\Editor\\AdsServiceEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\AdsServiceEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:41:49.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
